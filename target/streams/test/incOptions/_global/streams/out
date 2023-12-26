@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\sanar\Desktop\U\8vo\Discretas 2\taller2-santiago-arboleda\target\scala-3.0.0\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite$TestSets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunSetSuite$TestSets.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\sanar\Desktop\U\8vo\Discretas 2\taller2-santiago-arboleda\target\scala-3.0.0\test-classes.bak[0m
